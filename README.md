@@ -34,7 +34,7 @@ A mystical 2D exploration game built with Python and Pygame. Navigate a procedur
 Contributions are welcome! Fork the repository and submit a pull request with your changes. For major updates, please open an issue to discuss your ideas first.
 
 ## Support
-Love Aether Rift? Support its development on [GitHub Sponsors](https://github.com/sponsors/your-username) to help create more unique games!
+Love Aether Rift? Support its development on [GitHub Sponsors](https://github.com/sponsors/vinesscuakenn) to help create more unique games!
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
